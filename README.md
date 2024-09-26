@@ -122,7 +122,7 @@ A comprehensive dashboard to manage users, meetings, and configurations.
 Here are some pictures of the web App:
 
 First Image:
-
+<img width="761" alt="First Image" src="https://github.com/user-attachments/assets/5fe654fd-ba4c-4b0f-9bbf-0db5a80afc35">
 Second Image:
 
 Third Image:
